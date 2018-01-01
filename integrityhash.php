@@ -5,7 +5,7 @@
 	$currency = "NGN";// replace with your currency
 	$custom_description = "SECURE PAYMENT";//replace with your custom description
 	$custom_logo = "http://example.com/image.jpg";//replace with your custom logo url
-	$custom_title = "Automatic Pallet Ltd";
+	$custom_title = "Automatic Pallet Ltd"; // replace with link to custom title
 	$customer_email = $_GET['emailAddr'];
 	$customer_firstname = $_GET['name'];
 	$customer_phone = $_GET['telNo'];

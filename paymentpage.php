@@ -103,7 +103,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 			currency: "NGN", // replace with your currency
 			custom_description: "SECURE PAYMENT", // replace with your custom description
 			custom_logo: "http://example.com/image.jpg", // replace with link to your custom logo
-			custom_title: "Automatic Pallet Ltd",
+			custom_title: "My Company Ltd", // replace with link to your custom tittle
 			customer_email: "<?php $emailAddr = $_GET['emailAddr']; echo $emailAddr;?>",
 			customer_firstname: "<?php $name = $_GET['name']; echo $name;?>",
 			customer_phone: "<?php $telNo = $_GET['telNo']; echo $telNo;?>",
